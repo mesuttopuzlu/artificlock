@@ -1,6 +1,6 @@
 /**
  * @file        artificlock.c
- * @author      Mesut TOPUZLU
+ * @author      Mesut Topuzlu
  * @version     1.0.0
  * @copyright   GNU Public License v2.0
  * @brief       This file is a source file and contains some of function definitions.
