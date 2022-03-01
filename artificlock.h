@@ -1,6 +1,6 @@
 /**
  * @file        artificlock.h
- * @author      Mesut TOPUZLU
+ * @author      Mesut Topuzlu
  * @version     1.0.0
  * @copyright   GNU Public License v2.0
  * @brief       This file is header file to artificlock.c
@@ -71,7 +71,7 @@ int init_time(const date_time *dt);
 
 /**
  * @brief   This function increases argument's seconds value. When second reach max,  
- * it is cleared and minute is increased one. The others are same.
+ *          it is cleared and minute is increased one. The others are same.
  * @param   dt An instance of date_time struct.
  */
 void tick_time(date_time *dt);
